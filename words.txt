@@ -1,0 +1,9 @@
+winner
+loser
+david
+phone
+blink
+register
+assiignment
+loading
+calculator
