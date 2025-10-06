@@ -1,3 +1,10 @@
+/**
+ * Note: I could not implement the functionality of detecting the "ESC" keystroke, as 
+ *        the <conio.h> library is not available in Mac/Unix systems. The user can enter the "exit"
+ *        or "quit" in the string prompt to terminate the program..... 
+ */
+
+
 #include <iostream>
 #include <string>
 #include <algorithm>
